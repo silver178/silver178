@@ -5,7 +5,7 @@
 
 <div align="Center">
  
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@silvershark1) </div>
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@silvershark1) </div>
 
 
 <h2 align="Center">💻 Tech Stack:</h2>
