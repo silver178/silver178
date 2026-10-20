@@ -27,8 +27,12 @@
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
   ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=silver178)
+
+![Top Languages](https://ghstats.dev/api/langs?username=silver178&hide_border=true&layout=horizontal_list)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=silver178&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="Center">🌐 I'm active on Daily and Dev community!</h2>
 
 <a href="https://app.daily.dev/silver9"><img src="https://api.daily.dev/devcards/v2/aG6et36BLazUCD5BLcWZz.png?type=wide&r=nq9" width="652" alt="Silver's Dev Card"/></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
